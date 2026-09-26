@@ -16,3 +16,14 @@ Anki supports reviewed-card replacement proposals, optional automatic approval f
 The miner applications are compiled. The Anki replacement add-on and some third-party runtime components include Python files. SHA256 checksums are included with each release.
 
 This repository contains release downloads, not the main application's source. Not affiliated with jiten.moe or Anki.
+
+## First-time setup
+
+Choose the edition you want. Each ZIP includes the installer and a short `READ_ME_FIRST.txt` guide.
+
+| Edition | Setup guide | Installer + guide |
+| --- | --- | --- |
+| Jiten | [Read the Jiten setup guide](Jiten-First-Time-Setup.md) | [Jiten 0.1.1 Windows ZIP (43.54 MB)](https://github.com/RealSilversin/jiten-word-miner-releases/releases/download/v0.1.1/JitenWordMiner-0.1.1-Windows.zip) |
+| Anki | [Read the Anki setup guide](Anki-First-Time-Setup.md) | [Anki 0.1.1 Windows ZIP (44.82 MB)](https://github.com/RealSilversin/jiten-word-miner-releases/releases/download/v0.1.1/AnkiWordMiner-0.1.1-Windows.zip) |
+
+Both guides are also available as separate text downloads on the [0.1.1 release page](https://github.com/RealSilversin/jiten-word-miner-releases/releases/tag/v0.1.1). Models and optional voice components download separately during setup.
